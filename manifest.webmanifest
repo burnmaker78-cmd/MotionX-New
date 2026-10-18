@@ -1,13 +1,13 @@
 {
   "id": "./",
-  "name": "Open Motion",
-  "short_name": "Open Motion",
-  "description": "Open Motion — motion graphics dan video editor berbasis web.",
+  "name": "MotionX",
+  "short_name": "MotionX",
+  "description": "MotionX — video editing and motion graphics.",
+  "lang": "en",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "display_override": [
-    "window-controls-overlay",
     "standalone"
   ],
   "orientation": "any",
